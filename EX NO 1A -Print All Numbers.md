@@ -17,8 +17,8 @@ To Write a Java program that takes an integer input N from the user and prints a
 
 6. Increment i by 1.
 
-#### Developed By: Abdur Rahman Basil A H
-#### Register Number: 212223040002
+#### Developed By: Ranjan K
+#### Register Number: 212222230116
 
 ## Program:
 ```java
