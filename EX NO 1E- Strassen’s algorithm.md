@@ -13,8 +13,8 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 4. Combine the resulting four C-quadrants (C11, C12, C21, C22) using Strassen’s recombination formulas.  
 5. Merge these four quadrants back into a single result matrix and return it.
 
-### Developed By: Abdur Rahman Basil A H
-### Register Number: 212223040002
+### Developed By: Ranjan K
+### Register Number: 212222230116
 
 ## Program:
 ```java
