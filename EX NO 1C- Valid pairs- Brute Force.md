@@ -17,8 +17,8 @@ x if x >= 0.
 4. Perform a single pass through the array while maintaining frequency counts.  
 5. Return the accumulated count of valid difference-k pairs.
 
-### Developed By: Abdur Rahman Basil A H
-### Register Number: 212223040002
+### Developed By: Ranjan K
+### Register Number: 212222230116
 
 ## Program:
 ```java
