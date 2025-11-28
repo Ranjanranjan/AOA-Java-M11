@@ -15,8 +15,8 @@ The overall run time complexity should be O(log (m+n)).
 5. If odd, return the single middle element as the median.
   
 
-### Developed By: Abdur Rahman Basil A H
-### Register Number: 212223040002
+### Developed By: Ranjan K
+### Register Number: 212222230116
 
 ## Program:
 ```java
